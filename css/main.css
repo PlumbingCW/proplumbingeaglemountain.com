@@ -312,3 +312,5 @@ body{padding-bottom:70px}
 .hero.has-hero .pulse{display:none}
 .hero.has-hero .hero-bg{object-position:70% center}
 @media(max-width:768px){.hero.has-hero:before{background:linear-gradient(180deg,rgba(13,27,42,.9) 0%,rgba(13,27,42,.8) 60%,rgba(13,27,42,.55) 100%)}}
+
+.article p,.article li{overflow-wrap:anywhere}
